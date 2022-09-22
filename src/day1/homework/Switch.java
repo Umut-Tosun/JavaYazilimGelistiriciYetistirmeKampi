@@ -1,4 +1,4 @@
-package Day1.homeWork;
+package day1.homework;
 
 public class Switch {
     public static void main(String[] args) {

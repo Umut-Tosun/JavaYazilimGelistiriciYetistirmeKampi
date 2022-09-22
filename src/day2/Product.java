@@ -1,4 +1,4 @@
-package Day2;
+package day2;
 //PacalCase
 public class Product {
     //camelCase

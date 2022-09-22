@@ -1,4 +1,4 @@
-package Day1.homeWork;
+package day1.homework;
 
 public class Conditions {
     public static void main(String[] args) {
